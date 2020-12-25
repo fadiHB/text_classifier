@@ -6,3 +6,5 @@ Imagine you could know the mood of the people on the Internet. Maybe you are not
 networks and how they can be applied to text.
 
 in this repo , we will do that ..
+
+[link](https://github.com/fadiHB/text_classifier/tree/master)
